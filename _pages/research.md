@@ -9,8 +9,7 @@ permalink: /research/
 ### Our research mission
 
 Many disease pathogeneses are governed by multifactorial interactions involving complex sets of genes and pathways instead of a single genetic perturbation.We are interested in developing and applying high-throughput combinatorial genetic technologies to pinpoint novel mechanisms underlying complex diseases including cancers and neurodegenerative disorders to devise new combination therapies. We are also interested in developing new genome engineering tools and exploring their therapeutic potentials.
-</div>
-<div style="text-align:center">
+
 ### Challenges
 <img align="center" display="block" src="/images/misc/platform.jpg">
 <img align="center" display="block" src="/images/misc/prev.png">

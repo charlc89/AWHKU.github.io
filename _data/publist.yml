@@ -41,5 +41,6 @@
     url: https://www.pnas.org/content/113/9/2544
     display:  "Proceedings of National Academy of Sciences 113(9), 2544-2549"
   highlight: 1
-  news1:
-
+  news1: <p>--Research Highlights of Nature Reviews Genetics</p> <br> 
+         <p>--Research Highlights of Proceedings of National Academy of Sciences </p> <br> 
+         <a href="https://blog.addgene.org/pairing-combigem-and-crispr-for-combinatorial-genetic-screening">--Highlighted by Addgene blog</a>

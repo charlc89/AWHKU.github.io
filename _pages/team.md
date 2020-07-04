@@ -28,6 +28,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
+<div class="well-lg">  
 {% if member.photo == null or  member.photo == "" %}
 {% else %}
 <img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
@@ -71,6 +72,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
   </ul>
 </div>
+</div>
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -84,9 +86,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-
-
-
 ## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -98,6 +97,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
+<div class="well-lg"> 
 {% if member.photo == null or  member.photo == "" %}
 {% else %}
 <img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
@@ -132,7 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
   </ul>
 </div>
-
+</div>
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -145,6 +145,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+
+
 
 
 ## Alumni

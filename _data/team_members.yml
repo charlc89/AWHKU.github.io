@@ -1,5 +1,6 @@
+# postdoc
 - name: Gigi Choi
-  photo: <img src="/images/people/gigi.png
+  photo: gigi.png
   info: Postdoc
   email: 
   number_educ: 0
@@ -31,7 +32,73 @@
   photo: AC.jpg
   info: Postdoc
   email: hoi.yee.athena.chu@gmail.com
-  number_educ: 0
+  number_educ: 1
   education1: <a href="https://athenachy.github.io">Read about my bioinformatics journey</a>
   education2: 
-  education3:     
+  education3:  
+
+# PhD
+- name: Feng Xu (William)
+  photo:
+  info: PhD student
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:  
+
+# MPhil
+- name: Zero Yuen
+  photo:
+  info: MPhil student
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:  
+
+- name: John Fong
+  photo:
+  info: MPhil student
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+
+# RA
+- name: Becky Chan
+  photo: becky.png
+  info: Research assistant 
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:    
+
+- name: Dawn Thean
+  photo: dawn.png
+  info: Research assistant
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:        
+
+- name: Charles Chan
+  photo: charles.png
+  info: Research assistant
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:            
+
+- name: Bei Wang
+  photo:
+  info: Research assistant
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:                

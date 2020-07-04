@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-<div class="col-sm-10 clearfix" >
+<div class="col-sm-10 clearfix middle" >
 ## Alan Wong
 <img src="/images/people/drwong.png" width="30%" style="float: left;padding-right:12px" />
 

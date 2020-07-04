@@ -5,8 +5,9 @@ excerpt: "Alan Wong Lab @ HKUMed -- Team members"
 sitemap: false
 permalink: /team/
 ---
-## PI: Alan Wong
+
 <div class="col-sm-10 clearfix">
+## PI: Alan Wong
   <img src="/images/people/drwong.png" width="30%" style="float: left" />
 <br>
 Dr. Alan Siu-lun Wong is an Assistant Professor of the School of Biomedical Sciences at the University of Hong Kong (HKU). <br>

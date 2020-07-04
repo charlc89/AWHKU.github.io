@@ -29,7 +29,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
+  <img src="/images/people/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -83,7 +83,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -94,10 +94,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
+  <img src="/images/people/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
+ 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -140,10 +142,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Alumni
 <div class="row">
 
-<div class="col-sm-10 clearfix">
-<h4>Visitors</h4>
+<div class="col-sm-12 clearfix">
 {% for member in site.data.alumni_members %}
+<p>
 {{ member.name }}&nbsp -- &nbsp{{ member.info }}&nbsp({{ member.duration }})
+<br>
+</p>
 {% endfor %}
 </div>
 </div>

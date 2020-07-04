@@ -55,7 +55,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  <pubtit>{{ publi.title }}</pubtit><br />
+  <pubtit>{{ publi.title }}</pubtit><br>
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br><em> {{ publi.year }} </em><br />
   <p>{{ publi.news1 }}</p>
 {% endfor %}

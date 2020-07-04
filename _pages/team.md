@@ -16,7 +16,7 @@ Before he joined HKU, he obtained his B.Sc. and M.Phil. degrees in Biochemistry 
 </div>
 <div class="col-sm-10 clearfix">
 ## Group Members
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students) and [alumni members](#alumni).
 
 ## Staff
 </div>

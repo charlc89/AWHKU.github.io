@@ -1,7 +1,7 @@
 - date: 15-17 Nov 2019
   headline: "Invited talk at the Workshop on Enzyme Evolution for Advanced Biotechnology"
   description: Dr. Wong was invited to talk at the Workshop on Enzyme Evolution for Advanced Biotechnology in Shanghai!
-  images: <img src="{{ site.url }}{{ site.baseurl }}/images/news/news_shanghai.jpeg" float="left" width="500"> 
+  images: <img src="{{ site.url }}{{ site.baseurl }}/images/news/news_shanghai.jpeg" align="left" width="500"/> 
 
 - date: 12 Nov 2019
   headline: "Invited talk at the 9th CUHK International Symposium on Stem Cell Biology & Regenerative Medicine"

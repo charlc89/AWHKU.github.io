@@ -1,6 +1,6 @@
 ---
 title: "Alan Wong Lab @ HKUMed - Home"
-layout: textlay
+layout: homelay
 excerpt: "Alan Wong Lab @ HKUMed"
 sitemap: false
 permalink: /

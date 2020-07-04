@@ -9,11 +9,11 @@ permalink: /allnews.html
 # News
 <div class="col-sm-10 clearfix">
 {% for article in site.data.news %}
-<pubtit>{{ article.date }}<pubtit>
+<pubtit>{{ article.date }}</pubtit>
 <p>
 <em>{{ article.headline }}</em><br>
 {{ article.description}}</p>
 {{ publi.images }}
 <br />
- </div>
+</div>
 {% endfor %}

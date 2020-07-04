@@ -37,7 +37,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>{{ member.info }}<br>{{ member.email }}</i>
   <ul style="overflow: hidden">
 {% endif %}
-{% if member.photo == "" %}
+
+{% if member.photo == "NA" %}
 <br>
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>{{ member.email }}</i>

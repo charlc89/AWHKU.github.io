@@ -143,7 +143,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-10 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_members %}
-{{ member.name }}
+{{ member.name }}&nbsp -- &nbsp{{ member.info }}&nbsp({{ member.duration }})
 {% endfor %}
 </div>
 </div>

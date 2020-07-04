@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Alan Wong Lab @ HKUMed - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Alan Wong Lab @ HKUMed -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -26,7 +26,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/misc/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
@@ -57,6 +57,6 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><em>{{ publi.year }} </em><br />
 
 {% endfor %}

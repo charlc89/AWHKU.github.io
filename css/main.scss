@@ -91,3 +91,36 @@ firstp {
     margin-right: 30px;
 }
 
+
+/* Create two equal columns that floats next to each other */
+.logo{
+  float: right;
+  width: 50%;
+  height: 220;
+}
+.logor{
+  float: right;
+  width: 50%;
+  height: 50px;
+}
+.logol{
+  float: left;
+  height: 400;
+}
+.picr{
+    float: right;
+    width: 50%;
+    padding-top: 68px;
+    height: 540px; 
+    text-align: left;
+}
+.picl{
+    float: left;
+    width: 50%;
+    padding: 1px;
+    height: 50px; 
+    text-align: left;
+}
+
+
+

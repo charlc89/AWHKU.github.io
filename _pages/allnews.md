@@ -14,7 +14,7 @@ permalink: /allnews.html
 <p>
 <em>{{ article.headline }}</em><br>
 {{ article.description}}</p>
-{{ publi.images }}
+{{ article.images }}
 <br />
 </div>
 {% endfor %}

@@ -41,6 +41,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% else %}
 <img src="/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left;padding-right:12px" />
 {% endif %}
+<div class="textbox">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">
@@ -77,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
 
   </ul>
-  
+</div>  
 </div>
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
@@ -110,7 +111,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if member.photo == null or  member.photo == "" %}
 <br>
 {% else %}
-<img src="/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+<img src="/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left;padding-right:12px" />
 {% endif %}
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br> {{ member.email }} </i>

@@ -158,13 +158,15 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 <div class="row">
 <div class="col-sm-10 clearfix">
-<div class="well">   
+  
 {% for member in site.data.alumni_members %}
+<div class="well-sm"> 
 <p>
 {{ member.name }}&nbsp; -- &nbsp;{{ member.info }}&nbsp;({{ member.duration }})
 <br>
 </p>
-{% endfor %}
 </div>
+{% endfor %}
+
 </div>
 </div>

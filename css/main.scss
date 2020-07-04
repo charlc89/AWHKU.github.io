@@ -53,18 +53,19 @@ firstp {
 }
 
 .container-text {
-{
-  &__image {
-    float: left;
-  }
-  &__text {
-    display: inline;
-  }
-  margin-top: 20px;
+ margin-top: 20px;
   margin-right: auto;
   margin-left: 30px;
   max-width: 1500px; /* or 950px */
+  &__image {
+    float: left;
 vertical-align:middle;
+  }
+  &__text {
+    display: inline;
+vertical-align:middle;
+  }
+ 
 }
 
 /* Home, News */

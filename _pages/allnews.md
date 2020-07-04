@@ -7,8 +7,9 @@ permalink: /allnews.html
 ---
 
 # News
-<div class="col-sm-10 clearfix">
+
 {% for article in site.data.news %}
+<div class="col-sm-10 clearfix">
 <pubtit>{{ article.date }}</pubtit>
 <p>
 <em>{{ article.headline }}</em><br>

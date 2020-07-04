@@ -9,3 +9,8 @@
   images: 
 
 
+- date: 12 Sept 2019
+  headline: "Dr. Wong was invited to talk at NEB's NGS Symposium."
+  description: Dr. Wong was invited to talk at the 9th CUHK International Symposium on Stem Cell Biology & Regenerative Medicine.
+  images: <img src="{{ site.url }}{{ site.baseurl }}/images/news/news_NEBNGS.png" float="left" width="500"> 
+

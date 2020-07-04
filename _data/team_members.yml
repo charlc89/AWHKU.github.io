@@ -39,7 +39,7 @@
 
 # PhD
 - name: Feng Xu (William)
-  photo: "NA"
+  photo:
   info: PhD student
   email: 
   number_educ: 0
@@ -49,7 +49,7 @@
 
 # MPhil
 - name: Zero Yuen
-  photo: "NA"
+  photo:
   info: MPhil student
   email: 
   number_educ: 0
@@ -58,7 +58,7 @@
   education3:  
 
 - name: John Fong
-  photo: "NA"
+  photo: john.png
   info: MPhil student
   email: 
   number_educ: 0
@@ -95,10 +95,29 @@
   education3:            
 
 - name: Bei Wang
-  photo: "NA"
+  photo:
   info: Research assistant
   email: 
   number_educ: 0
   education1: 
   education2: 
   education3:                
+
+#TO
+- name: Cynthia Kwok
+  photo:
+  info: Technical Officer
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:         
+
+- name: Cindy Tong
+  photo: cindy.png
+  info: Technical Officer
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:  

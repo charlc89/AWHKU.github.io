@@ -29,9 +29,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
-  <img src="/images/people/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
+<div class="well-lg">
+{% if member.photo != "" %}
+  <img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+{% endif %}
+
+<br>
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br>{{ member.email }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -66,7 +71,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
   </ul>
 </div>
-
+</div>
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -94,9 +99,11 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
-  <img src="/images/people/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
+<div class="well-lg">
+  <img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+<br>
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">
 
  
@@ -124,7 +131,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
   </ul>
 </div>
-
+</div>
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}

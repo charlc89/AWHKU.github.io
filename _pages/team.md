@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
 <div class="container-text">
-    <img class="container-text__image"  src="/images/people/drwong.png" width="30%"/>
+<img class="container-text__image"  src="/images/people/drwong.png" width="30%"/>
 <div class="container-text__text">
 <h3>Alan Wong</h3>
 <p>Dr. Alan Siu-lun Wong is an Assistant Professor of the School of Biomedical Sciences at the University of Hong Kong (HKU). <br>

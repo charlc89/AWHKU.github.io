@@ -55,6 +55,7 @@ firstp {
 padding = 10px;
   max-width: 1500px; /* or 950px */
  display:block;
+justify-content: center;
 }
 
 /* Home, News */
@@ -62,7 +63,7 @@ padding = 10px;
 	text-align: left;
 }
 
-h2 {
+#h2 {
 	text-align: left;
 }
 

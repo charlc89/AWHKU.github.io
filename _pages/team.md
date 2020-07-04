@@ -5,12 +5,13 @@ excerpt: "Allan Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
+## Alan Wong
+<div class="col-sm-10 clearfix">
+  <img src="/images/people/drwong.png" class="img-responsive" width="30%" style="float: left" />
+  <i>Dr. Alan Siu-lun Wong is an Assistant Professor of the School of Biomedical Sciences at the University of Hong Kong (HKU). Before he joined HKU, he obtained his B.Sc. and M.Phil. degrees in Biochemistry and Molecular Biotechnology from the Chinese University of Hong Kong in 2005 and 2007 respectively, and completed his Ph.D. in Biochemistry at the Hong Kong University of Science and Technology in 2011. He joined the Synthetic Biology Group at Massachusetts Institute of Technology from 2012-2016 for postdoctoral training. Dr. Wong was awarded with the Croucher Foundation Studentship (2008), the Butterfield-Croucher Award (2008), the Croucher Foundation Fellowship (2012), and the Hong Kong Institution of Science Young Scientist Award in life science (2011). </i>
+</div>
 
-# Group Members
-
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
+## Group Members
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Staff
@@ -24,7 +25,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">

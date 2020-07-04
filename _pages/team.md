@@ -29,21 +29,15 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
-<div class="well-lg">
-<div class="col-sm-10 clearfix">
-{% if member.photo != null %}
-  <img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
-<br>
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br> {{ member.email }} </i>
-  <ul style="overflow: hidden">
+{% if member.photo == null or  member.photo == "" %}
 {% else %}
+<img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+{% endif %}
 <br>
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">
 <br>
-{% endif %}
 
 
   {% if member.number_educ == 1 %}
@@ -107,19 +101,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-10 clearfix">
 {% if member.photo == null or  member.photo == "" %}
-<br>
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br> {{ member.email }} </i>
-  <ul style="overflow: hidden">
-<br>
 {% else %}
 <img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+{% endif %}
 <br>
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">
 <br>
-{% endif %}
  
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>

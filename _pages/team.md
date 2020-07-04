@@ -100,9 +100,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
-<div class="well-lg">
+{% if member.photo != "" %}
   <img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
-<br>
+{% endif %}<br>
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">
@@ -153,7 +153,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-12 clearfix">
 {% for member in site.data.alumni_members %}
 <p>
-{{ member.name }}&nbsp -- &nbsp{{ member.info }}&nbsp({{ member.duration }})
+{{ member.name }}&nbsp; -- &nbsp;{{ member.info }}&nbsp;({{ member.duration }})
 <br>
 </p>
 {% endfor %}

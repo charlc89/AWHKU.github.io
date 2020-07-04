@@ -52,13 +52,18 @@ firstp {
   max-width: 1500px; /* or 950px */
 }
 
-.container {
+.container-text {
+{
+  &__image {
+    float: left;
+  }
+  &__text {
+    display: inline;
+  }
   margin-top: 20px;
   margin-right: auto;
   margin-left: 30px;
-padding = 10px;
   max-width: 1500px; /* or 950px */
- display:table-cell;
 vertical-align:middle;
 }
 

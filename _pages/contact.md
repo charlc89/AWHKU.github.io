@@ -6,7 +6,7 @@ sitemap: false
 permalink: /contact
 ---
 
-# Lab Address:
+## Lab Address:
 L333 3/F Labortory Block
 
 21 Sasson Road

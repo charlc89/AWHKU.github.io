@@ -6,11 +6,11 @@ sitemap: false
 permalink: /team/
 ---
 
-<div class="col-sm-10 clearfix middle" >
+<div class="col-sm-10 clearfix" >
 
 <div class="container-text">
-<img class="container__image" src="/images/people/drwong.png" width="30%" style="float: left" />
-<div class="container__text">
+<img class="container-text__image" src="/images/people/drwong.png" width="30%" style="float: left" />
+<div class="container-text__text">
 ## Alan Wong
 Dr. Alan Siu-lun Wong is an Assistant Professor of the School of Biomedical Sciences at the University of Hong Kong (HKU). <br>
 Before he joined HKU, he obtained his B.Sc. and M.Phil. degrees in Biochemistry and Molecular Biotechnology from the Chinese University of Hong Kong in 2005 and 2007 respectively, and completed his Ph.D. in Biochemistry at the Hong Kong University of Science and Technology in 2011. He joined the Synthetic Biology Group at Massachusetts Institute of Technology from 2012-2016 for postdoctoral training. Dr. Wong was awarded with the Croucher Foundation Studentship (2008), the Butterfield-Croucher Award (2008), the Croucher Foundation Fellowship (2012), and the Hong Kong Institution of Science Young Scientist Award in life science (2011). 

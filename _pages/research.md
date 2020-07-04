@@ -12,14 +12,15 @@ Many disease pathogeneses are governed by multifactorial interactions involving 
 
 ## Challenges
  
-![]({{ site.url }}{{ site.baseurl }}/images/misc/prev.png){: style="width: 600px; float: left; border: 10px"}
-
-![]({{ site.url }}{{ site.baseurl }}/images/misc/drugs.png){: style="width: 600px; float: left; border: 10px"}
-
-![]({{ site.url }}{{ site.baseurl }}/images/misc/platform.png){: style="width: 600px; float: left; border: 10px"}
-
 Despite the enormous potential with combination therapy, there are only limited combination regimens that have been isolated and characterized. 
 To circumvent the need to individually test every possible combinations that is prohibitively expensive and impracticable, our platform enable the rapid discovery of combination-based treatment strategies for various complex diseases, including devising combination drug therapies for cancers and new cell differentiation formulas involving specific combinatorial effectors important for regenerative medicine applications.
+
+![]({{ site.url }}{{ site.baseurl }}/images/misc/prev.png){: style="width: 600px; float: left; border: 100px"}
+
+![]({{ site.url }}{{ site.baseurl }}/images/misc/drugs.png){: style="width: 600px; float: left; border: 100px"}
+
+![]({{ site.url }}{{ site.baseurl }}/images/misc/platform.png){: style="width: 600px; float: left; border: 100px"}
+
 
 ## Projects
 Establishment of combinatorial genetics platforms for high-throughput screening

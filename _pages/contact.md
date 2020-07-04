@@ -15,4 +15,8 @@ Pok Fu Lam, Hong Kong Island
 
 **Inquiries and applications should be addressed to aslw@hku.hk. **
 
+<div class="picr">
+<iframe width="560" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=21%20sasson%20road%2C%20hong%20kong+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=16&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/map-my-route/">Draw map route</a></iframe></div><br />
+  </div>
+</div>
 

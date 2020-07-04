@@ -36,7 +36,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% else %}
 <img src="/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
 {% endif %}
-<br>
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">

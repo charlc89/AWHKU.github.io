@@ -41,6 +41,45 @@
     url: https://www.pnas.org/content/113/9/2544
     display:  "Proceedings of National Academy of Sciences 113(9), 2544-2549"
   highlight: 1
-  news1: <p>--Research Highlights of Nature Reviews Genetics</p> <br> 
-         <p>--Research Highlights of Proceedings of National Academy of Sciences </p> <br> 
+  news1: --Research Highlights of Nature Reviews Genetics <br> 
+         --Research Highlights of Proceedings of National Academy of Sciences <br> 
          <a href="https://blog.addgene.org/pairing-combigem-and-crispr-for-combinatorial-genetic-screening">--Highlighted by Addgene blog</a>
+
+
+- title: "Massively parallel high-order combinatorial genetics in human cells."
+  year: "2015"
+  image: 
+  description: 
+  authors: Wong, S.L.A., Choi, C.G.G., Cheng, A.A., Purcell, O., Lu, T.K.
+  link:
+    url: https://www.nature.com/articles/nbt.3326
+    display:  "Nature Biotechnology 33(9), 952-961"
+  highlight: 0
+  news1: --Research Highlights of Nature Reviews Genetics
+
+
+- title: "TrkB phosphorylation by Cdk5 is required for activity-dependent structural plasticity and spatial memory."
+  year: "2012"
+  image: 
+  description: 
+  authors: Lai, K.O., Wong, S.L.A., Cheung, M.C., Xu, P., Liang, Z., Lok, K.C., Xie, H., Palkos, M.E., Yung, W.H., Tessarollo, L., Cheung, Z.H., Ip, N.Y. 
+  link:
+    url: https://www.nature.com/articles/nbt.3326
+    display:  "Nature Neuroscience 15(11), 1506-1515"
+  highlight: 0
+  news1: --Highlighted by News and Views of Nature Neuroscience<br>
+         --Editor's choice of Science Signaling
+
+
+
+- title: "Cdk5-mediated phosphorylation of endophilin B1 is required for induced autophagy in models of Parkinson's disease."
+  year: "2011"
+  image: 
+  description: 
+  authors: Wong, S.L.A., Lee, R.H.K., Cheung, A.Y., Yeung, P.K., Chung, S.K., Cheung, Z.H. and Ip, N.Y. 
+  link:
+    url: https://www.nature.com/articles/nbt.3326
+    display:  "Nature Cell Biology 13(5), 568-579"
+  highlight: 0
+  news1: --Research Highlights of Nature Asia-Pacific International Molecular Biology Network<br>
+         --Research Highlights of Nature China

@@ -12,5 +12,59 @@
 - date: 12 Sept 2019
   headline: "Dr. Wong was invited to talk at NEB's NGS Symposium."
   description: Dr. Wong was invited to talk at the 9th CUHK International Symposium on Stem Cell Biology & Regenerative Medicine.
-  images: <img src="/images/news/news_NEBNGS.png" float="left" width="500"> 
+  images: <img src="/images/news/news_NEBNGS.png" align="left" width="500"/> 
+
+- date: 12 Jul 2019
+  headline: "Dr. Wong was invited as a keynote speaker in YASHK's Talk Series"
+  description: Dr. Wong was invited as a keynote speaker in the Talk Series on Emerging Technologies - Science, Opportunities and Challenges: Nature's Red Pencil: Writing and Rewriting Genomes organized by the Hong Kong Young Academy of Science.
+  images: <img src="/images/news/news_YASHK1.jpeg" align="left" width="500"/>  
+          <img src="/images/news/news_YASHK3.jpeg" align="left" width="500"/> 
+          <img src="/images/news/news_YASHK2.jpeg" align="left" width="500"/> 
+          <img src="/images/news/news_YASHK.jpeg" align="left" width="500"/> 
+
+- date: 04 Jul 2019
+  headline: "Bye Jessie, Rachel, and Daniel"
+  description: Good luck Jessie, Rachel, and Daniel moving onto their next steps!
+  images: <img src="/images/news/news/news_pplleaving.png" align="left" width="500"/>  
+
+- date: 23-27 Jun 2019
+  headline: "Becky at the SEED conference 2019"
+  description: Becky attended the 2019 Synthetic Biology: Engineering, Evolution & Design (SEED) conference in New York City!
+  images: <img src="/images/news/news/news_beckyconference.jpg" align="left" width="500"/>  
+
+- date: 13 Jun 2019
+  headline: "AW lab's Disney Retreat"
+  description: The lab's first paper got accepted by Nature Methods!
+  images: <img src="/images/news/news/news_disneyretreat.jpg" align="left" width="500"/>  
+
+- date: 19 May 2019
+  headline: "Invited talk at Karolinska Institutet, Sweden"
+  description: Dr. Wong is invited to give a talk at Karolinska Institute in Stockholm, Sweden.
+  images: 
+
+- date: 19 May 2019
+  headline: Jessie got awarded at the HKU Research Colloquium for Science Undergraduate Students
+  description: Congratulations to Jessie on being awarded one of the best poster presentations in the HKU Research Colloquium for Science Undergraduate Students 2018-2019! Well done! 
+  images: <img src="/images/news/news/news_jessieposter.png" align="left" width="500"/>  
+
+- date: 29 Mar - 3 Apr 2019
+  headline: AACR 2019 Meeting
+  description: Nick and William went to the AACR 2019 Meeting in Atlanta, GA.
+  images: <img src="/images/news/news/news_AACR_201904.jpg" align="left" width="500"/>  
+
+- date: 14 Dec 2018
+  headline: "Invited lecture @ SBMS Research Day 2018"
+  description: Dr. Wong was invited to give a lecture during the School of Biomedical Science Research Day.
+  images: 
+
+- date: 12 Sept 2018
+  headline: Lab lunch
+  description: The lab got lunch at Japas in Kennedy Town.
+  images: <img src="/images/news/news/news_lablunch.jpg" align="left" width="500"/>  
+
+- date: 28 Aug 2018
+  headline: "Invited talk at TRS symposium"
+  description: Dr. Wong was invited to give a talk at the TRS symposium:
+Gastric Cancer Genomics and Beyond: Organoids, Genomics and Cell Biology.
+  images: 
 

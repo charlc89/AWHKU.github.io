@@ -64,12 +64,11 @@
   description: 
   authors: Lai, K.O., Wong, S.L.A., Cheung, M.C., Xu, P., Liang, Z., Lok, K.C., Xie, H., Palkos, M.E., Yung, W.H., Tessarollo, L., Cheung, Z.H., Ip, N.Y. 
   link:
-    url: https://www.nature.com/articles/nbt.3326
+    url: https://www.nature.com/articles/nn.3237
     display:  "Nature Neuroscience 15(11), 1506-1515"
   highlight: 0
   news1: --Highlighted by News and Views of Nature Neuroscience<br>
          --Editor's choice of Science Signaling
-
 
 
 - title: "Cdk5-mediated phosphorylation of endophilin B1 is required for induced autophagy in models of Parkinson's disease."
@@ -83,3 +82,47 @@
   highlight: 0
   news1: --Research Highlights of Nature Asia-Pacific International Molecular Biology Network<br>
          --Research Highlights of Nature China
+
+- title: "Molecular machinery of macroautophagy and its deregulation in diseases."
+  year: "2011"
+  image: 
+  description: 
+  authors: Wong, S.L.A., Cheung, Z.H. and Ip, N.Y.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S092544391100158X?via%3Dihub
+    display:  "Biochimica et Biophysica Acta Molecular Basis of Disease 1812(11), 1490-1479"
+  highlight: 0
+  news1: 
+
+- title: "Sodium dodecyl sulfate-insoluble oligomers are involved in polyglutamine degeneration."
+  year: "2008"
+  image: 
+  description: 
+  authors: Wong, S.L.A., Chan, W. M. and Chan, H.Y.E. 
+  link:
+    url: 
+    display:  "FASEB J. 22(9), 3348-3357"
+  highlight: 0
+  news1: 
+
+- title: "Transcriptional malfunctioning of heat shock protein gene expression in spinocerebeller ataxias."
+  year: "2006"
+  image: 
+  description: 
+  authors: Huen, N.Y.M., Wong, S.L.A. and Chan, H.Y.E.
+  link:
+    url: 
+    display:  "The Cerebellum 6(2), 111-117"
+  highlight: 0
+  news1: 
+
+- title: " In vivo functional characterization of the SARS Coronavirus 3a protein in Drosophila."
+  year: "2005"
+  image: 
+  description: 
+  authors: Wong, S.L.A., Chen, Y.W., Chan, C.M., Chan, C.S.M., Chan, P.K.S., Chui, Y.L., Fung, K.P., Waye, M.M.Y., Tsui, S.K.W. and Chan, H.Y.E.
+  link:
+    url: 
+    display:  "Biochem. Biophy. Res. Comm. 337, 720-729"
+  highlight: 0
+  news1: --Featured on Cover of the issue     

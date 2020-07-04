@@ -1,7 +1,7 @@
 ---
-title: "AW Lab - Contact"
+title: "Alan Wong Lab @ HKUMed - Contact"
 layout: contactlay
-excerpt: "Openings"
+excerpt: "Alan Wong Lab @ HKUMed -- Contact"
 sitemap: false
 permalink: /contact
 ---

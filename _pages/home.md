@@ -1,5 +1,5 @@
 ---
-title: "AWHKU - Home"
+title: "Alan Wong Lab @ HKUMed - Home"
 layout: textlay
 excerpt: "Alan Wong Lab @ HKUMed"
 sitemap: false

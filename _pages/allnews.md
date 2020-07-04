@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "Alan Wong Lab @ HKUMed - News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Alan Wong Lab @ HKUMed -- News"
 sitemap: false
 permalink: /allnews.html
 ---

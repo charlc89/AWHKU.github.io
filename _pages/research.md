@@ -1,5 +1,5 @@
 ---
-title: "Alan Wong Lab @ HKUMed"
+title: "Alan Wong Lab @ HKUMed - Research"
 layout: textlay
 excerpt: "Alan Wong Lab @ HKUMed -- Research"
 sitemap: false

@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Selected articles
 
 (For a full list see [below](#full-list))
 
@@ -31,7 +31,6 @@ permalink: /publications/
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p><br><em> {{ publi.year }} </em><br />
   <p>{{ publi.news1 }}</p>
-  <p>{{ publi.news2 }}</p>
  </div>
 </div>
 
@@ -58,6 +57,5 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br><em> {{ publi.year }} </em><br />
-  <p>{{ publi.news1 }}</p><br />
-  <p>{{ publi.news2 }}</p><br />
+  <p>{{ publi.news1 }}</p>
 {% endfor %}

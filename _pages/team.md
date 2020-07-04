@@ -100,13 +100,19 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
-{% if member.photo != "" %}
+{% if member.photo != null %}
   <img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
-{% endif %}<br>
+<br>
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">
-
+{% else %}
+<br>
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br> {{ member.email }} </i>
+  <ul style="overflow: hidden">
+<br>
+{% endif %}
  
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -158,7 +164,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </p>
 {% endfor %}
 </div>
-</div>
+
 
 
 </div>

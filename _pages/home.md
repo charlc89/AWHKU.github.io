@@ -5,9 +5,9 @@ excerpt: "Alan Wong Lab @ HKUMed"
 sitemap: false
 permalink: /
 ---
-
+<div class="col-sm-10">
 We are based in School of Biomedical Sciences, LKS Faculty of Medicine, The University of Hong Kong (HKUMed). Our reseach focuses on developing and applying combinatorial genetics technologies to study complex diseases and devise new therapeutic strategies. 
-
+</div>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -49,9 +49,9 @@ We are based in School of Biomedical Sciences, LKS Faculty of Medicine, The Univ
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-To tackle the challenge in finding clinically useful proteins in an effective and low-cost manner, we developed a new platform, CombiSEAL, that generate and assess protein variants with combinatorial mutations at mutiple sites systemaically. Using CombiSEAL, we successfully identified new high-fidelity Opti-SpCas9 and OptiHF-SpCas9 variants for precise genome editing.
+<div class="col-sm-10">
+To tackle the challenge in finding clinically useful proteins in an effective and low-cost manner, we developed a new platform, CombiSEAL, that generate and assess protein variants with combinatorial mutations at mutiple sites systemaically. Using CombiSEAL, we successfully identified new high-fidelity Opti-SpCas9 and OptiHF-SpCas9 variants for precise genome editing.<br>
 
 
 Our another research focus is to establish high-throughput screening platforms, i.e. CombiGEM-CRISPR, for rapid discovery of combination-based drug treatment strategies for cancers and new cell differentiation formulas involving specific combinatorial effectors important for regenerative medicine applications.
-
+</div>

@@ -32,6 +32,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-10 clearfix">
 <div class="well-sm">  
 {% if member.photo == null or  member.photo == "" %}
+<br>
 {% else %}
 <img src="/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
 {% endif %}
@@ -39,7 +40,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">
-<br>
 
 
   {% if member.number_educ == 1 %}
@@ -103,6 +103,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-10 clearfix">
 <div class="well-sm"> 
 {% if member.photo == null or  member.photo == "" %}
+<br>
 {% else %}
 <img src="/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
 {% endif %}
@@ -110,7 +111,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">
-<br>
  
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>

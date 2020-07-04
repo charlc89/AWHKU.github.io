@@ -30,7 +30,9 @@
 .container-fluid {
   @include container-fixed;
 }
-
+.container-text {
+  @include container-fixed;
+}
 
 // Row
 //

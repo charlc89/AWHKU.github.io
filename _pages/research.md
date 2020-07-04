@@ -20,21 +20,21 @@ Many disease pathogeneses are governed by multifactorial interactions involving 
 Despite the enormous potential with combination therapy, there are only limited combination regimens that have been isolated and characterized. 
 To circumvent the need to individually test every possible combinations that is prohibitively expensive and impracticable, our platform enable the rapid discovery of combination-based treatment strategies for various complex diseases, including devising combination drug therapies for cancers and new cell differentiation formulas involving specific combinatorial effectors important for regenerative medicine applications.
 </div>
-<div style="text-align:left">
+<div align="left">
 ## Projects
-Establishment of combinatorial genetics platforms for high-throughput screening
+-Establishment of combinatorial genetics platforms for high-throughput screening
 
 
-High-throughput discovery of effective anti-cancer therapeutic combinations
+-High-throughput discovery of effective anti-cancer therapeutic combinations
 
 
-High-throughput discovery of efficient cell differentiation protocols
+-High-throughput discovery of efficient cell differentiation protocols
 
 
-Protein engineering by combinatorial mutagenesis en masse
+-Protein engineering by combinatorial mutagenesis en masse
 
 
-Engineering of CRISPR-based genome editing tools
+-Engineering of CRISPR-based genome editing tools
 </div>
 
 

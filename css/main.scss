@@ -49,9 +49,12 @@ firstp {
 }
 
 .container {
+  margin-top: 20px;
   margin-right: auto;
   margin-left: 30px;
+padding = 10px;
   max-width: 1500px; /* or 950px */
+ display:block;
 }
 
 /* Home, News */

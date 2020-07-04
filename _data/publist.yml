@@ -7,7 +7,7 @@
     url: https://www.nature.com/articles/s41592-019-0473-0
     display:  "Nature Methods 16,722–730"
   highlight: 1
-  news1:  <a href="https://protocolsmethods.springernature.com/posts/51089-beating-the-odds-for-engineering-crispr-protein">"--Nature Methods' Blog post (also mentioned on Twitter)"</a> <br> <a href="{{ site.url }}{{ site.baseurl }}/images/news/BioScienceEC.pdf">"--BioWorld Science Editor's Choice on July 2019"</a>
+  news1:  <a href="https://protocolsmethods.springernature.com/posts/51089-beating-the-odds-for-engineering-crispr-protein">"--Nature Methods' Blog post (also mentioned on Twitter)"</a> &nbsp; <a href="{{ site.url }}{{ site.baseurl }}/images/news/BioScienceEC.pdf">"--BioWorld Science Editor's Choice on July 2019"</a>
 
 - title: "Ectopic expression of recipient CD47 inhibits mouse macrophage-mediated immune rejection against human stem cell transplants."
   year: "2018"
@@ -19,27 +19,27 @@
     display:  "FASEB J. 33(1): 484-493"
   highlight: 0
   news1:  
-  news2:  
+ 
 
 - title: "Deciphering combinatorial genetics."
   year: "2016"
-  image: 
+  image: Annu.rev.genet.5051538.jpeg
   description: 
   authors: Wong, S.L.A., Choi, C.G.G., Lu, T.K. 
   link:
     url: http://arjournals.annualreviews.org/eprint/Ck3Yd8qPkczAesdDNbsX/full/10.1146/annurev-genet-120215-034902
     display:  "Annual Reviews of Genetics 50, 515-538"
   highlight: 1
-  news2:
+  news1:
 
 - title: "Multiplexed barcoded CRISPR-Cas9 screening enabled by CombiGEM."
   year: "2016"
-  image: 
+  image: PNAS_113_925442549.jpeg
   description: 
   authors: Wong, S.L.A.*, Choi, C.G.G.*, Cui, C.H.*, Pregernig, G., Milani, P., Adam, M., Perli, S.D., Kazer, S.W., Gaillard, A., Hermann, M., Shalek, A.K., Fraenkel, E., Lu, T.K.  
   link:
-    url: http://arjournals.annualreviews.org/eprint/Ck3Yd8qPkczAesdDNbsX/full/10.1146/annurev-genet-120215-034902
+    url: https://www.pnas.org/content/113/9/2544
     display:  "Proceedings of National Academy of Sciences 113(9), 2544-2549"
   highlight: 1
   news1:
-  news2:
+

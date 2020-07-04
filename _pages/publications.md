@@ -29,7 +29,7 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/misc/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p><br><em> {{ publi.year }} </em><br />
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>&nbsp;<em> {{ publi.year }} </em><br />
   <p>{{ publi.news1 }}</p>
  </div>
 </div>

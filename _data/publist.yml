@@ -7,7 +7,7 @@
     url: https://www.nature.com/articles/s41592-019-0473-0
     display:  "Nature Methods 16,722–730"
   highlight: 1
-  news1:  <a href="https://protocolsmethods.springernature.com/posts/51089-beating-the-odds-for-engineering-crispr-protein">"--Nature Methods' Blog post (also mentioned on Twitter)"</a> &nbsp; <a href="{{ site.url }}{{ site.baseurl }}/images/news/BioScienceEC.pdf">"--BioWorld Science Editor's Choice on July 2019"</a>
+  news1:  <a href="https://protocolsmethods.springernature.com/posts/51089-beating-the-odds-for-engineering-crispr-protein">--Nature Methods' Blog post (also mentioned on Twitter)</a> <br> <a href="{{ site.url }}{{ site.baseurl }}/images/news/BioScienceEC.pdf">--BioWorld Science Editor's Choice on July 2019</a>
 
 - title: "Ectopic expression of recipient CD47 inhibits mouse macrophage-mediated immune rejection against human stem cell transplants."
   year: "2018"

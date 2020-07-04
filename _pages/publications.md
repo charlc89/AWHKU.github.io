@@ -58,5 +58,6 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><em>{{ publi.year }} </em><br />
-
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p><br />
+  <p> {{ publi.news2 }}</p><br />
 {% endfor %}

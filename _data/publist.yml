@@ -1,21 +1,45 @@
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  year:
-  image: TBG_ARPES.png
+- title: "Combinatorial mutagenesis en masse optimizes SpCas9's genome-editing activities. "
+  year: "2019"
+  image: CombiSEAL.png
   description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+  authors: Choi, C.G.G., Zhou, P., Yuen, T.L.C., Chan, K.C.B., Xu, F., Bao, S., Chu, H.Y., Thean, D., Tan, K., Wong, K.H., Zheng, Z., Wong, S.L.A.
   link:
-    url: https://arxiv.org/abs/2005.05140
-    display:  arXiv:2005.05140
-  highlight: 0
+    url: https://www.nature.com/articles/s41592-019-0473-0
+    display:  "Nature Methods 16,722–730"
+  highlight: 1
   news2:
 
-- title: "Direct evidence for flat bands in twisted bilayer graphene from nano-ARPES"
-  year:
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+- title: "Ectopic expression of recipient CD47 inhibits mouse macrophage-mediated immune rejection against human stem cell transplants."
+  year: "2018"
+  image: 
+  description: 
+  authors: Leung, C.S., Li ,J., Xu, F., Wong, S.L.A., Lui, K.O. 
   link:
-    url: https://arxiv.org/abs/2002.02289
-    display:  arXiv:2002.02289
+    url: https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fj.201800449R
+    display:  "FASEB J. 33(1): 484-493"
   highlight: 1
+  news1:  "Nature Methods' Blog post (also mentioned on Twitter)"
+  news2:  "BioWorld Science Editor's Choice on July 2019"
+
+- title: "Deciphering combinatorial genetics."
+  year: "2016"
+  image: 
+  description: 
+  authors: Wong, S.L.A., Choi, C.G.G., Lu, T.K. 
+  link:
+    url: http://arjournals.annualreviews.org/eprint/Ck3Yd8qPkczAesdDNbsX/full/10.1146/annurev-genet-120215-034902
+    display:  "Annual Reviews of Genetics 50, 515-538"
+  highlight: 1
+  news2:
+
+- title: "Multiplexed barcoded CRISPR-Cas9 screening enabled by CombiGEM."
+  year: "2016"
+  image: 
+  description: 
+  authors: Wong, S.L.A.*, Choi, C.G.G.*, Cui, C.H.*, Pregernig, G., Milani, P., Adam, M., Perli, S.D., Kazer, S.W., Gaillard, A., Hermann, M., Shalek, A.K., Fraenkel, E., Lu, T.K.  
+  link:
+    url: http://arjournals.annualreviews.org/eprint/Ck3Yd8qPkczAesdDNbsX/full/10.1146/annurev-genet-120215-034902
+    display:  "Proceedings of National Academy of Sciences 113(9), 2544-2549"
+  highlight: 1
+  news1:
   news2:

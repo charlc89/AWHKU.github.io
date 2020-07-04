@@ -17,10 +17,7 @@
   headline: "Dr. Wong was invited as a keynote speaker in YASHK's Talk Series"
   description: "Dr. Wong was invited as a keynote speaker in the Talk Series on Emerging Technologies - Science, Opportunities and Challenges: Nature's Red Pencil: Writing and Rewriting Genomes organized by the Hong Kong Young Academy of Science."
   images: <img src="/images/news/news_YASHK1.jpeg" align="left" width="500"/>  
-          <img src="/images/news/news_YASHK3.jpeg" align="left" width="500"/> 
-          <img src="/images/news/news_YASHK2.jpeg" align="left" width="500"/> 
-          <img src="/images/news/news_YASHK.jpeg" align="left" width="500"/> 
-
+ 
 - date: 04 Jul 2019
   headline: "Bye Jessie, Rachel, and Daniel"
   description: Good luck Jessie, Rachel, and Daniel moving onto their next steps!
@@ -63,7 +60,6 @@
 
 - date: 28 Aug 2018
   headline: "Invited talk at TRS symposium"
-  description: Dr. Wong was invited to give a talk at the TRS symposium:
-Gastric Cancer Genomics and Beyond: Organoids, Genomics and Cell Biology.
+  description: "Dr. Wong was invited to give a talk at the TRS symposium: Gastric Cancer Genomics and Beyond: Organoids, Genomics and Cell Biology."
   images: 
 

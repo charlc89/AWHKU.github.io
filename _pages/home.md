@@ -1,6 +1,6 @@
 ---
 title: "AWHKU - Home"
-layout: homelay
+layout: textlay
 excerpt: "Alan Wong Lab @ HKUMed"
 sitemap: false
 permalink: /

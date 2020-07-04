@@ -30,10 +30,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
-<div class="well-lg">  
+<div class="well-sm">  
 {% if member.photo == null or  member.photo == "" %}
 {% else %}
-<img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+<img src="/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
 {% endif %}
 <br>
   <h4>{{ member.name }}</h4>
@@ -101,10 +101,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-10 clearfix">
-<div class="well-lg"> 
+<div class="well-sm"> 
 {% if member.photo == null or  member.photo == "" %}
 {% else %}
-<img src="/images/people/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+<img src="/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
 {% endif %}
 <br>
   <h4>{{ member.name }}</h4>
@@ -158,11 +158,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 <div class="row">
 <div class="col-sm-10 clearfix">
+<div class="well">   
 {% for member in site.data.alumni_members %}
 <p>
 {{ member.name }}&nbsp; -- &nbsp;{{ member.info }}&nbsp;({{ member.duration }})
 <br>
 </p>
 {% endfor %}
+</div>
 </div>
 </div>

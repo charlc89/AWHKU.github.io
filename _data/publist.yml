@@ -48,13 +48,13 @@
 
 - title: "Massively parallel high-order combinatorial genetics in human cells."
   year: "2015"
-  image: 
+  image: CombiGEM.png
   description: 
   authors: Wong, S.L.A., Choi, C.G.G., Cheng, A.A., Purcell, O., Lu, T.K.
   link:
     url: https://www.nature.com/articles/nbt.3326
     display:  "Nature Biotechnology 33(9), 952-961"
-  highlight: 0
+  highlight: 1
   news1: --Research Highlights of Nature Reviews Genetics
 
 

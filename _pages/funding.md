@@ -9,8 +9,11 @@ permalink: /funding/
 
 # Funding
 ## Research work in our laboratory is generously supported by:
+- RGC GRF 2020/21 (PI)
 
 - RGC GRF 2019/20 (PI)
+
+- RGC CRF 2019/20 (PI)
 
 - MWLC Associate Membership Fund 2019, Karolinska Institutet, HK (PI)
 

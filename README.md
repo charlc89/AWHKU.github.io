@@ -9,5 +9,6 @@ Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purp
 
 Copyright Allan Lab. Code released under the MIT License.
 
-To change publications, news and team profile, amend at \_data publist, members, alumi, and students.list
+To change publications, news and team profile, amend at \_data/ publist, members, alumi, and students.yml
+To change homepage, research and contacts, amend at \_pages/ .md 
 

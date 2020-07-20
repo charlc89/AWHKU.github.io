@@ -111,7 +111,7 @@
 - date: 21 Mar 2017
   headline: "Invited talk at DIY Bio"
   description: "Dr. Wong was invited to give a talk at DIY Bio."
-  images: <img src="/images/news/news_diybio.jpg" align="left" width="500"/>  
+  images: <img src="/images/news/news_diybio.jpg" align="left" height="600"/>  
 
 - date: 11 Mar 2017
   headline: "Invited lecture at the 12th International Symposium on Healthy Aging"

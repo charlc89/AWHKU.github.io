@@ -30,8 +30,13 @@
   images: <img src="/images/news/news_beckyconference.jpg" align="left" width="500"/>  
 
 - date: 13 Jun 2019
+  headline: "The lab's first paper got accepted by Nature Methods!"
+  description: 
+  images: <img src="/images/news/firstpaper_whatsapp.jpeg" align="left" width="500"/>  
+
+- date: 13 Jun 2019
   headline: "AW lab's Disney Retreat"
-  description: The lab's first paper got accepted by Nature Methods!
+  description: 
   images: <img src="/images/news/news_disneyretreat.jpg" align="left" width="500"/>  
 
 - date: 19 May 2019
@@ -102,7 +107,12 @@
            <img src="/images/news/news_comsym2017talk.jpg" align="left" width="500"/>  
            <img src="/images/news/news_SBMSresearchday.jpg" align="left" width="500"/>  
            <img src="/images/news/news_SBMSresearchday2.jpg" align="left" width="500"/>  
-       
+
+- date: 21 Mar 2017
+  headline: "Invited talk at DIY Bio"
+  description: "Dr. Wong was invited to give a talk at DIY Bio."
+  images: <img src="/images/news/news_diybio.jpg" align="left" width="500"/>  
+
 - date: 11 Mar 2017
   headline: "Invited lecture at the 12th International Symposium on Healthy Aging"
   description: "Dr. Wong was invited to give a lecture at the 12th International Symposium on Healthy Aging."

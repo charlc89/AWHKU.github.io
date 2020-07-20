@@ -41,38 +41,6 @@
   education2: 
   education3:  
 
-# PhD
-- name: Feng Xu (William)
-  photo:
-  info: PhD student
-  year: Since 2016 
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:  
-
-# MPhil
-- name: Zero Yuen
-  photo:
-  info: MPhil student
-  year: Since 2018 
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:  
-
-- name: John Fong
-  photo: john.png
-  info: MPhil student
-  year: Since 2019 
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3: 
-
 # RA
 - name: Becky Chan
   photo: becky.png

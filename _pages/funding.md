@@ -9,6 +9,8 @@ permalink: /funding/
 
 # Funding
 ## Research work in our laboratory is generously supported by:
+- RGC TBRS 2020/2021 (co-PI)
+
 - RGC GRF 2020/21 (PI)
 
 - RGC GRF 2019/20 (co-PI)

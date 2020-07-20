@@ -22,7 +22,7 @@ Before he joined HKU, he obtained his B.Sc. and M.Phil. degrees in Biochemistry 
 ## Group Members
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students) and [alumni members](#alumni).
 
-## Staff
+## Members
 </div>
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -42,7 +42,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 <div class="textbox">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br> {{ member.email }} </i>
+  <i>{{ member.info }}<br> 
+    {{ member.year }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">
 
 
@@ -113,7 +114,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <img src="/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left;padding-right:12px" />
 {% endif %}
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br> {{ member.email }} </i>
+  <i>{{ member.info }}<br> 
+    {{ member.year }}<br> {{ member.email }} </i>
   <ul style="overflow: hidden">
  
   {% if member.number_educ == 1 %}

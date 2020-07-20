@@ -7,7 +7,7 @@
     url: https://www.nature.com/articles/s41592-019-0473-0
     display:  "Nature Methods 16,722–730"
   highlight: 1
-  news1:  <a href="https://protocolsmethods.springernature.com/posts/51089-beating-the-odds-for-engineering-crispr-protein">--Nature Methods' Blog post (also mentioned on Twitter)</a> <br> <a href="{{ site.url }}{{ site.baseurl }}/images/news/BioScienceEC.pdf">--BioWorld Science Editor's Choice on July 2019</a>
+  news1:  <a href="https://protocolsmethods.springernature.com/posts/51089-beating-the-odds-for-engineering-crispr-protein">--Nature Methods' Blog post (also mentioned on Twitter)</a> <br> <a href="{{ site.url }}{{ site.baseurl }}/images/news/BioScienceEC.pdf">--BioWorld Science Editor's Choice on July 2019</a> <br> <a href=" https://www.singpao.com.hk/index.php?fi=loadpdf&t=news&id=13087">--Featured in Singpao newspaper</a> 
 
 - title: "Ectopic expression of recipient CD47 inhibits mouse macrophage-mediated immune rejection against human stem cell transplants."
   year: "2018"
@@ -41,8 +41,9 @@
     url: https://www.pnas.org/content/113/9/2544
     display:  "Proceedings of National Academy of Sciences 113(9), 2544-2549"
   highlight: 1
-  news1: --Research Highlights of Nature Reviews Genetics <br> 
-         --Research Highlights of Proceedings of National Academy of Sciences <br> 
+  news1: <a href="http://www.nature.com/nrg/journal/vaop/ncurrent/full/nrg.2016.24.html">--Research Highlights of Nature Reviews Genetics as a /" creative combination/"</a> <br> 
+         <a href="http://www.pnas.org/content/113/9/2319.full">--Research Highlights of <i>Proceedings of National Academy of Sciences</i></a> <br> 
+         <a href="https://www.cell.com/cell-systems/pdf/S2405-4712(16)30187-9.pdf)">--Research Highlights in <i>Cell Systems</i></a> <br> 
          <a href="https://blog.addgene.org/pairing-combigem-and-crispr-for-combinatorial-genetic-screening">--Highlighted by Addgene blog</a>
 
 
@@ -55,7 +56,7 @@
     url: https://www.nature.com/articles/nbt.3326
     display:  "Nature Biotechnology 33(9), 952-961"
   highlight: 1
-  news1: --Research Highlights of Nature Reviews Genetics
+  news1: <a href="(http://www.nature.com/nrg/journal/vaop/ncurrent/full/nrg4008.html"--Research Highlights of Nature Reviews Genetics</a> 
 
 
 - title: "TrkB phosphorylation by Cdk5 is required for activity-dependent structural plasticity and spatial memory."

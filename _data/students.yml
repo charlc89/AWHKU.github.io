@@ -22,7 +22,7 @@
 - name: Zero Yuen
   photo:
   info: MPhil student
-  year: Since 2018 
+  year: Since 2018 <br> Research assistant (2016-18)
   email: 
   number_educ: 0
   education1: 
@@ -31,8 +31,8 @@
 
 - name: John Fong
   photo: john.png
-  info: MPhil student
-  year: Since 2019 
+  info: MPhil student 
+  year: Since 2019 <br> BioMed FYP student (2018-19)
   email: 
   number_educ: 0
   education1: 

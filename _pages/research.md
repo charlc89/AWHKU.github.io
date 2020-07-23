@@ -11,7 +11,7 @@ permalink: /research/
 Many disease pathogeneses are governed by multifactorial interactions involving complex sets of genes and pathways instead of a single genetic perturbation.We are interested in developing and applying high-throughput combinatorial genetic technologies to pinpoint novel mechanisms underlying complex diseases including cancers and neurodegenerative disorders to devise new combination therapies. We are also interested in developing high-throughput protein engineering methods to create new toolkits for genome engineering and beyond.
 
 <img align="center" display="block" src="/images/misc/platform.jpg"  width="600">
-<img align="center" display="block" src="/images/misc/CombiSEAL.png" width="600">
+<img align="center" display="block" src="/images/misc/combi_SEAL_project.png" width="600">
 </div>
 
 ## Projects

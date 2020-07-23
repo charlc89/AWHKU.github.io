@@ -1,6 +1,6 @@
 - title: "Combinatorial mutagenesis en masse optimizes SpCas9's genome-editing activities. "
   year: "2019"
-  image: <img src="/images/misc/combiSEAL_pub.png" class="img-responsive" width="40%" style="float: left" HSPACE="5" VSPACE="10" /> 
+  image: <img src="/images/misc/combiSEAL_pub.png" class="img-responsive" width="40%" align="left" HSPACE="5" VSPACE="10" /> 
   description:
   authors: Choi, C.G.G., Zhou, P., Yuen, T.L.C., Chan, K.C.B., Xu, F., Bao, S., Chu, H.Y., Thean, D., Tan, K., Wong, K.H., Zheng, Z., Wong, S.L.A.
   link:
@@ -25,7 +25,7 @@
 
 - title: "Deciphering combinatorial genetics."
   year: "2016"
-  image: <img src="/images/misc/Annu.rev.genet.5051538.jpeg" class="img-responsive" width="30%" style="float: left" HSPACE="5" VSPACE="10" />
+  image: <img src="/images/misc/Annu.rev.genet.5051538.jpeg" class="img-responsive" width="30%" align="left" HSPACE="5" VSPACE="10" />
   description: 
   authors: Wong, S.L.A., Choi, C.G.G., Lu, T.K. 
   link:
@@ -36,7 +36,7 @@
 
 - title: "Multiplexed barcoded CRISPR-Cas9 screening enabled by CombiGEM."
   year: "2016"
-  image: <img src="/images/misc/PNAS_113_925442549.jpeg" class="img-responsive" width="30%" style="float: left" HSPACE="5" VSPACE="10" />
+  image: <img src="/images/misc/PNAS_113_925442549.jpeg" class="img-responsive" width="30%"  align="left" HSPACE="5" VSPACE="10" />
   description: 
   authors: Wong, S.L.A.*, Choi, C.G.G.*, Cui, C.H.*, Pregernig, G., Milani, P., Adam, M., Perli, S.D., Kazer, S.W., Gaillard, A., Hermann, M., Shalek, A.K., Fraenkel, E., Lu, T.K.  
   link:
@@ -51,7 +51,7 @@
 
 - title: "Massively parallel high-order combinatorial genetics in human cells."
   year: "2015"
-  image: <img src="/images/misc/CombiGEM.png" class="img-responsive" width="30%" style="float: left" HSPACE="5" VSPACE="10" />
+  image: <img src="/images/misc/CombiGEM.png" class="img-responsive" width="30%"  align="left" HSPACE="5" VSPACE="10" />
   description: 
   authors: Wong, S.L.A., Choi, C.G.G., Cheng, A.A., Purcell, O., Lu, T.K.
   link:

@@ -20,7 +20,7 @@ ___
 </div>
 <div class="col-sm-10 clearfix">
 ## Group Members
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students) and [alumni members](#alumni).
+Jump to [staff](#staff), [students](#master-and-bachelor-students) and [alumni members](#alumni).
 
 ## Members
 </div>

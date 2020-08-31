@@ -61,26 +61,7 @@
   education1: 
   education2: 
   education3:        
-
-- name: Charles Chan
-  photo: charles.png
-  info: Research assistant
-  year: Since 2019
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:            
-
-- name: Bei Wang
-  photo:
-  info: Research assistant
-  year: Since 2020
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  education3:                
+        
 
 #TO
 - name: Cynthia Kwok
